@@ -20,7 +20,7 @@ h1 {
   box-sizing: border-box; 
   width: 800px;
   padding: 24px;
-  background-color: #5da1ad; 
+  background-color: rgba(89, 150, 194, 0.750); 
   box-shadow: 20px 20px 10px rgba(0, 0, 0, 0.493);
   border-radius: 24px;
   border-style: solid;
@@ -29,6 +29,15 @@ h1 {
 }
 
 #SnowCastle { 
+  width: 750px;
+  border-radius: 24px;
+  size-adjust: 20px;
+  margin: 1px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section #local {
   width: 750px;
   border-radius: 24px;
   size-adjust: 20px;
@@ -63,4 +72,38 @@ h1 {
   background-color: #19a6bf;
   color: black;
   border-color: #080e0f;
+}
+
+
+/** Segunda página **/
+
+#kingimg {
+  width: 150px;
+  border-radius: 250px;
+  size-adjust: 30px;
+  margin: 1px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#textking {
+text-align: center;
+}
+
+#footernote {
+  width: 750px;
+  border-radius: 30px;
+  size-adjust: 20px;
+  margin: 1px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/** pagina 3**/
+#imagem3 {  width: 700px;
+  border-radius: 30px;
+  size-adjust: 20px;
+  margin: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  margin: auto;
 }
